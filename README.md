@@ -1,1 +1,1 @@
-# Multiversus-Bot-and-Cheat0s
+# Multiversus Bot and Cheat
