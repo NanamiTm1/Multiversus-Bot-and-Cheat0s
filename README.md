@@ -9,7 +9,7 @@ https://youtu.be/6D9IRE4QM3s
 
 - Cheats -
 // Active Perks effect 3+
-// +Fast Recovery 
+// Fast Recovery 
 // Auto dodge 70% accuracy
 // Fast kick
 
